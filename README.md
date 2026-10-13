@@ -1,4 +1,4 @@
-# Hola, soy @mayte29637
+# Hola, soy Mayte
 
 - **Intereses:** Desarrollo de software, tecnología e innovación.
 - **Actualmente aprendiendo:** Programación y nuevas tecnologías.
