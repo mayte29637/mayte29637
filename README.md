@@ -1,18 +1,4 @@
 # Hola, soy Mayte
-
-- **Intereses:** Desarrollo de software, tecnología e innovación.
-- **Actualmente aprendiendo:** Programación y nuevas tecnologías.
-- **Colaboraciones:** Interesada en participar en proyectos y trabajar en equipo.
-- **Contacto:** A través de GitHub.
-- **Dato de interés:** Comprometida con el aprendizaje continuo y la mejora de mis habilidades técnicas.
-
-
-
-
-
-
-
-
 ## Sobre mí
 
 Soy estudiante de Sistemas Microinformáticos y Redes (SMX), interesada en el mundo de la informática y la tecnología. Actualmente estoy desarrollando mis conocimientos en sistemas informáticos, redes y herramientas de desarrollo.
